@@ -3,8 +3,9 @@
 и Google Таблицами. Умею проводить EDA, проверять гипотезы
 и оформлять результаты в понятные выводы для бизнеса.
 
-natallia_pranko@mail.ru
-@gnataPro23
+**Контакты:**
+- Email: [natallia_pranko@mail.ru](mailto:natallia_pranko@mail.ru)
+- Telegram: [@gnataPro23](https://t.me/gnataPro23)
 
 
 ## Проекты
