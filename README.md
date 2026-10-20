@@ -1,16 +1,16 @@
-## Hi there 👋
+**Наталья Пронько** — аналитик данных / BI-аналитик.
+Работаю с Python (pandas, matplotlib, scipy), SQL, DataLens
+и Google Таблицами. Умею проводить EDA, проверять гипотезы
+и оформлять результаты в понятные выводы для бизнеса.
 
-<!--
-**prankonatala466-boop/prankonatala466-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+natallia_pranko@mail.ru
+@gnataPro23
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+- [EDA_Секреты темнолесья](./EDA_Секреты%20темнолесья/) — предобработка данных об играх
+- [EDA_Рынок общественного питания](./EDA_Рынок%20общественного%20питания/) — EDA рынка общепита Москвы
+- [EDA_Рынок стартапов](./EDA_Рынок%20стартапов/) — анализ финансирования стартапов
+- [Hypothesis_Сервис проката самокатов](./Hypothesis_Сервис%20проката%20самокатов/) — проверка гипотез о выгоде подписки GoFast
+- [Hypothesis_Агрегатор отелей](./Hypothesis_Агрегатор%20отелей/) — проверка гипотез о туризме в России
